@@ -1,0 +1,384 @@
+{
+    "data": [
+        {
+            "team": {
+                "name": "AFC Bournemouth",
+                "acronym": "BOU",
+                "last6": [
+                    true,
+                    false,
+                    true,
+                    false,
+                    true,
+                    true
+                ],
+                "MP": "38/38",
+                "success_score": 63.16,
+                "next_match": {
+                    "name": null,
+                    "datetime": null
+                }
+            }
+        },
+        {
+            "team": {
+                "name": "Arsenal",
+                "acronym": "ARS",
+                "last6": [
+                    true,
+                    false,
+                    true,
+                    true,
+                    true,
+                    false
+                ],
+                "MP": "38/38",
+                "success_score": 57.89,
+                "next_match": {
+                    "name": null,
+                    "datetime": null
+                }
+            }
+        },
+        {
+            "team": {
+                "name": "Brighton & Hove Albion",
+                "acronym": null,
+                "last6": [
+                    true,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                "MP": "38/38",
+                "success_score": 47.37,
+                "next_match": {
+                    "name": null,
+                    "datetime": null
+                }
+            }
+        },
+        {
+            "team": {
+                "name": "Burnley",
+                "acronym": "BUR",
+                "last6": [
+                    true,
+                    false,
+                    false,
+                    true,
+                    false,
+                    true
+                ],
+                "MP": "38/38",
+                "success_score": 57.89,
+                "next_match": {
+                    "name": null,
+                    "datetime": null
+                }
+            }
+        },
+        {
+            "team": {
+                "name": "Chelsea",
+                "acronym": "CHE",
+                "last6": [
+                    false,
+                    true,
+                    false,
+                    true,
+                    false,
+                    false
+                ],
+                "MP": "38/38",
+                "success_score": 55.26,
+                "next_match": {
+                    "name": null,
+                    "datetime": null
+                }
+            }
+        },
+        {
+            "team": {
+                "name": "Crystal Palace",
+                "acronym": "CRY",
+                "last6": [
+                    true,
+                    true,
+                    false,
+                    true,
+                    true,
+                    false
+                ],
+                "MP": "38/38",
+                "success_score": 44.74,
+                "next_match": {
+                    "name": null,
+                    "datetime": null
+                }
+            }
+        },
+        {
+            "team": {
+                "name": "Everton",
+                "acronym": "EVE",
+                "last6": [
+                    true,
+                    false,
+                    false,
+                    true,
+                    false,
+                    false
+                ],
+                "MP": "38/38",
+                "success_score": 47.37,
+                "next_match": {
+                    "name": null,
+                    "datetime": null
+                }
+            }
+        },
+        {
+            "team": {
+                "name": "Fulham",
+                "acronym": "FUL",
+                "last6": [
+                    true,
+                    false,
+                    false,
+                    false,
+                    false,
+                    true
+                ],
+                "MP": "38/38",
+                "success_score": 55.26,
+                "next_match": {
+                    "name": null,
+                    "datetime": null
+                }
+            }
+        },
+        {
+            "team": {
+                "name": "Huddersfield Town",
+                "acronym": "HUD",
+                "last6": [
+                    false,
+                    false,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "MP": "38/38",
+                "success_score": 44.74,
+                "next_match": {
+                    "name": null,
+                    "datetime": null
+                }
+            }
+        },
+        {
+            "team": {
+                "name": "Leicester City",
+                "acronym": "LEI",
+                "last6": [
+                    false,
+                    false,
+                    true,
+                    true,
+                    false,
+                    true
+                ],
+                "MP": "38/38",
+                "success_score": 50,
+                "next_match": {
+                    "name": null,
+                    "datetime": null
+                }
+            }
+        },
+        {
+            "team": {
+                "name": "Liverpool",
+                "acronym": "LIV",
+                "last6": [
+                    false,
+                    true,
+                    true,
+                    false,
+                    false,
+                    true
+                ],
+                "MP": "38/38",
+                "success_score": 55.26,
+                "next_match": {
+                    "name": null,
+                    "datetime": null
+                }
+            }
+        },
+        {
+            "team": {
+                "name": "Manchester City",
+                "acronym": "MCI",
+                "last6": [
+                    true,
+                    false,
+                    false,
+                    false,
+                    false,
+                    true
+                ],
+                "MP": "38/38",
+                "success_score": 60.53,
+                "next_match": {
+                    "name": null,
+                    "datetime": null
+                }
+            }
+        },
+        {
+            "team": {
+                "name": "Manchester United",
+                "acronym": "MUN",
+                "last6": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    true,
+                    true
+                ],
+                "MP": "38/38",
+                "success_score": 68.42,
+                "next_match": {
+                    "name": null,
+                    "datetime": null
+                }
+            }
+        },
+        {
+            "team": {
+                "name": "Newcastle United",
+                "acronym": "NEW",
+                "last6": [
+                    true,
+                    true,
+                    false,
+                    true,
+                    false,
+                    false
+                ],
+                "MP": "38/38",
+                "success_score": 47.37,
+                "next_match": {
+                    "name": null,
+                    "datetime": null
+                }
+            }
+        },
+        {
+            "team": {
+                "name": "Southampton",
+                "acronym": "SOU",
+                "last6": [
+                    false,
+                    true,
+                    true,
+                    false,
+                    true,
+                    true
+                ],
+                "MP": "38/38",
+                "success_score": 60.53,
+                "next_match": {
+                    "name": null,
+                    "datetime": null
+                }
+            }
+        },
+        {
+            "team": {
+                "name": "Tottenham Hotspur",
+                "acronym": "TOT",
+                "last6": [
+                    true,
+                    false,
+                    false,
+                    false,
+                    false,
+                    true
+                ],
+                "MP": "38/38",
+                "success_score": 57.89,
+                "next_match": {
+                    "name": null,
+                    "datetime": null
+                }
+            }
+        },
+        {
+            "team": {
+                "name": "Watford",
+                "acronym": "WAT",
+                "last6": [
+                    true,
+                    true,
+                    true,
+                    false,
+                    true,
+                    false
+                ],
+                "MP": "38/38",
+                "success_score": 63.16,
+                "next_match": {
+                    "name": null,
+                    "datetime": null
+                }
+            }
+        },
+        {
+            "team": {
+                "name": "West Ham United",
+                "acronym": "WHU",
+                "last6": [
+                    true,
+                    true,
+                    false,
+                    true,
+                    true,
+                    false
+                ],
+                "MP": "38/38",
+                "success_score": 50,
+                "next_match": {
+                    "name": null,
+                    "datetime": null
+                }
+            }
+        },
+        {
+            "team": {
+                "name": "Wolverhampton Wanderers",
+                "acronym": "WOL",
+                "last6": [
+                    false,
+                    false,
+                    true,
+                    true,
+                    false,
+                    true
+                ],
+                "MP": "38/38",
+                "success_score": 36.84,
+                "next_match": {
+                    "name": null,
+                    "datetime": null
+                }
+            }
+        }
+    ]
+}
